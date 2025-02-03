@@ -1,2 +1,9 @@
 # flyingtrolleycars-web
-Public website for Flying Trolley Cars
+flyingtrolleycars.com 11ty static site
+
+## Local Development
+
+```bash
+yarn
+yarn dev
+```
